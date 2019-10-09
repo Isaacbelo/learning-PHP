@@ -1,0 +1,27 @@
+#area
+{
+  position:relative;
+  left:37%;
+  top:29%;
+  width:320px;
+  height:270px;
+}
+#area #formulario
+{
+  position:absolute;
+  display:block;   
+}
+fieldset
+{
+  width:300px;
+  height:250px;
+  border-radius: 12px;
+  background-color: #B0C4DE;
+} 
+ 
+legend
+{
+  font-family: "Segoe UI";
+  color:grey;
+  text-transform: uppercase;
+}
